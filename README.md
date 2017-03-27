@@ -1,4 +1,3 @@
-# NOT YET AVAILABLE TO CHAPTERS
 # Girls Learning Code: Gamemaking with Scratch & MaKey MaKey
 
 ## Quick Links
